@@ -14,7 +14,6 @@ This project fully implements the requirements from your PDF:
 - `main.py` → main launcher
 - `ocr_module.py` → OCR pipeline
 - `object_detection.py` → object detection
-- `download_models.py` → downloads MobileNet SSD model
 - `outputs/` → generated results
 - `models/` → downloaded AI models
 
